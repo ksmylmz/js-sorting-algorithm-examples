@@ -102,7 +102,6 @@ var arr_size = arr.length;
 	document.write( "<br>Sorted array is <br>");
 	printArray(arr, arr_size);
 
-// This code is contributed by SoumikMondal
 
 
 

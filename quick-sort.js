@@ -79,8 +79,6 @@ quickSort(arr, 0, n - 1);
 document.write("Sorted array: <br>");
 printArray(arr, n);
  
-// This code is contributed by Saurabh Jaiswal
-
 // console.log("sorted selection list",list);
 console.log("step",stepCount);
 
